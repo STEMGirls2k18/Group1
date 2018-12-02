@@ -1,52 +1,45 @@
-html, body { height: 100%; padding: 0; margin: 0; }
-div { width: 70%; height: 70%; float: left; }
-#div1 { background:green; }
-#div2 { background:; }
-#div3 { background: #DDD; }
-#div4 { background: #AAA; }
-#div5 { background: #DDD; }
-#div6 { background: #AAA; }
+html, body { height: 60%; padding: 0; margin: 0; }
 
 
 
-h1.one{ color:red;
-   font-size:30px;
+h1.one{ color:yellow;
+   font-size:60px;
    text-align:center;
-   background-image:asia1.jpg;
    border-style:solid;
-   border-width:20px
+   border-width:5px
   
 }
  
 p.one{
       color:black;
    font-size:30px;
+    text-align:left;
   
    
 }
 p.two{
       color:red;
-   font-size:60px;
+   font-size:30px;
      text-align:left;
 }
 p.three{
-      color:red;
+      color:green;
    font-size:30px;
    text-align:left;
    
 }
 p.four{
-      color:red;
+      color:yellow;
    font-size:30px;
     text-align:left;
 }
 p.five{
-      color:red;
+      color:white;
    font-size:30px;
      text-align:left;
 }
 p.six{
-      color:red;
+      color:black;
    font-size:30px;
     text-align:left;
 }
